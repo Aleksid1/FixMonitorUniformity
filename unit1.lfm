@@ -1,0 +1,14 @@
+object Form1: TForm1
+  Left = 0
+  Height = 338
+  Top = 0
+  Width = 651
+  BorderStyle = bsNone
+  Caption = 'FixMonitorUniformity'
+  Color = clBlack
+  DesignTimePPI = 134
+  FormStyle = fsSystemStayOnTop
+  ShowInTaskBar = stNever
+  OnCreate = FormCreate
+  LCLVersion = '2.2.6.0'
+end

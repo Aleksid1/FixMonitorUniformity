@@ -1,0 +1,13 @@
+# Executables
+*.exe
+
+# Debug info
+*.gdb
+*.dbg
+
+# Lazarus session
+*.lps
+
+# Folders
+backup/
+lib/
